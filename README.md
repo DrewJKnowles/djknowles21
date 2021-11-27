@@ -9,7 +9,7 @@
 
 
 <hr></hr>
-<div align="center" >
+<div align="left" >
   
 <a  href="https://github.com/SP-XD">
   
