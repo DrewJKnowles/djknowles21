@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Drew👋
+![GitHub followers](https://img.shields.io/github/followers/djknowles21?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/knowle3_?label=Follow)
+[![Linkedin: Drew Knowles](https://img.shields.io/badge/-djknowles21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drew-knowles-376686155/)](https://www.linkedin.com/in/drew-knowles-376686155/)
 
 <!--
 **djknowles21/djknowles21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
